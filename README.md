@@ -6,6 +6,6 @@ I’m currently learning **Core Java**, **Web Development (HTML, CSS & JavaScrip
 
 Reach me on Instagram: [@vedangc._](https://instagram.com/vedangc._)  
 
-Pronouns: he/him  
+Pronouns: he/him
 
-Fun fact: I *love* cats. 
+Fun fact: I *love* cats!
